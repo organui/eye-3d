@@ -1,0 +1,24 @@
+structure	concept id	element file id	source name
+cornea	FMA58239	FJ1340	Right cornea
+sclera	FMA58271	FJ1368	Right sclera
+choroid	FMA58299	FJ1336	Right choroid
+choroid	FMA58299	FJ1337	Right choroid
+retina	FMA58607	FJ1367	Optic part of right retina
+iris	FMA58236	FJ1348	Right iris
+anterior-chamber	FMA58081	FJ1332	Anterior chamber of right eyeball
+lens	FMA58242	FJ1356	Right lens
+suspensory-ligament	FMA58839	FJ1371	Suspensory ligament of right lens
+vitreous-body	FMA58828	FJ1382	Right vitreous body
+superior-rectus	FMA49044	FJ1374	Right superior rectus
+inferior-rectus	FMA49046	FJ1346	Right inferior rectus
+medial-rectus	FMA49056	FJ1359	Right medial rectus
+lateral-rectus	FMA49054	FJ1355	Right lateral rectus
+superior-oblique	FMA49052	FJ1373	Right superior oblique
+inferior-oblique	FMA49050	FJ1345	Right inferior oblique
+levator-palpebrae	FMA49048	FJ1357	Right levator palpebrae superioris
+levator-palpebrae	FMA54159	FJ1343	Tendon of right levator palpebrae superioris
+optic-nerve	FMA50875	FJ7501	Right optic nerve
+trochlea	FMA49067	FJ1380	Trochlea of right superior oblique
+lacrimal-gland	FMA59102	FJ1350	Right lacrimal gland
+upper-tarsal-plate	FMA59091	FJ1375	Tarsal plate of right upper eyelid
+lower-tarsal-plate	FMA59089	FJ1379	Tarsal plate of right lower eyelid

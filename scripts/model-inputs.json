@@ -1,0 +1,213 @@
+{
+  "mirror": "https://github.com/olivercase/body_parts_3d_api",
+  "mirrorCommit": "fd527e6f4daf732fd814314d9257df5877b844bc",
+  "objects": [
+    {
+      "id": "FJ1332",
+      "file": "FJ1332.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1332_BP22879_FMA58081_Anterior%20chamber%20of%20right%20eyeball.obj",
+      "sha256": "5fcc25380ed685581a8de599cb4d7dd3ef214448a0f19fa93dfa09f6561a1f18",
+      "bytes": 185241,
+      "mirrorPath": "meshes/FJ1332_BP22879_FMA58081_Anterior chamber of right eyeball.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1332_BP22879_FMA58081_Anterior%20chamber%20of%20right%20eyeball.obj"
+    },
+    {
+      "id": "FJ1336",
+      "file": "FJ1336.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1336_BP21711_FMA58299_Right%20choroid.obj",
+      "sha256": "44b884dcb2184615ba153335db479fcb93cf1ea67052ec171a1693c191e8acaa",
+      "bytes": 460220,
+      "mirrorPath": "meshes/FJ1336_BP21711_FMA58299_Right choroid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1336_BP21711_FMA58299_Right%20choroid.obj"
+    },
+    {
+      "id": "FJ1337",
+      "file": "FJ1337.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1337_BP21711_FMA58299_Right%20choroid.obj",
+      "sha256": "0d5a9023b5f9745a361b6d12db0326162334781f49487dd2dcbc525b67ca6d22",
+      "bytes": 2012224,
+      "mirrorPath": "meshes/FJ1337_BP21711_FMA58299_Right choroid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1337_BP21711_FMA58299_Right%20choroid.obj"
+    },
+    {
+      "id": "FJ1340",
+      "file": "FJ1340.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1340_BP23300_FMA58239_Right%20cornea.obj",
+      "sha256": "54355243527186388cb0639d8c0b93917f1fdf3561cc16e4ce8c79d46fd2f152",
+      "bytes": 336755,
+      "mirrorPath": "meshes/FJ1340_BP23300_FMA58239_Right cornea.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1340_BP23300_FMA58239_Right%20cornea.obj"
+    },
+    {
+      "id": "FJ1343",
+      "file": "FJ1343.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1343_BP21501_FMA54159_Tendon%20of%20right%20levator%20palpebrae%20superioris.obj",
+      "sha256": "2c05ac485ff89ea3ce2739a1ce7aab1275c8d3aefa1eb63027ebb4f96262f121",
+      "bytes": 193761,
+      "mirrorPath": "meshes/FJ1343_BP21501_FMA54159_Tendon of right levator palpebrae superioris.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1343_BP21501_FMA54159_Tendon%20of%20right%20levator%20palpebrae%20superioris.obj"
+    },
+    {
+      "id": "FJ1345",
+      "file": "FJ1345.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1345_BP23882_FMA49050_Right%20inferior%20oblique.obj",
+      "sha256": "ba6587b4c0de1e4b4b54400ba96cf452b74e3ebf2eb1b66778bd55fee87b8b76",
+      "bytes": 144895,
+      "mirrorPath": "meshes/FJ1345_BP23882_FMA49050_Right inferior oblique.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1345_BP23882_FMA49050_Right%20inferior%20oblique.obj"
+    },
+    {
+      "id": "FJ1346",
+      "file": "FJ1346.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1346_BP20293_FMA49046_Right%20inferior%20rectus.obj",
+      "sha256": "edad9e91d9fc2852c70ffcfcb218fb69a74dc76fff8d35d06ee46aebba5091be",
+      "bytes": 224245,
+      "mirrorPath": "meshes/FJ1346_BP20293_FMA49046_Right inferior rectus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1346_BP20293_FMA49046_Right%20inferior%20rectus.obj"
+    },
+    {
+      "id": "FJ1348",
+      "file": "FJ1348.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1348_BP21327_FMA58236_Right%20iris.obj",
+      "sha256": "faa81813b4ba2000575e3c21a1b4a95465985ac95bf7bb05e7d4d4025a8b067f",
+      "bytes": 207787,
+      "mirrorPath": "meshes/FJ1348_BP21327_FMA58236_Right iris.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1348_BP21327_FMA58236_Right%20iris.obj"
+    },
+    {
+      "id": "FJ1350",
+      "file": "FJ1350.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1350_BP22884_FMA59102_Right%20lacrimal%20gland.obj",
+      "sha256": "94988bca86113b605301499c124c3ced54b30580833125f10e3636d48324ff1b",
+      "bytes": 107837,
+      "mirrorPath": "meshes/FJ1350_BP22884_FMA59102_Right lacrimal gland.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1350_BP22884_FMA59102_Right%20lacrimal%20gland.obj"
+    },
+    {
+      "id": "FJ1355",
+      "file": "FJ1355.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1355_BP23931_FMA49054_Right%20lateral%20rectus.obj",
+      "sha256": "7de59675e4a4989f1c555bc9d8af819260eace063ac61dea99050d558b4a47eb",
+      "bytes": 206126,
+      "mirrorPath": "meshes/FJ1355_BP23931_FMA49054_Right lateral rectus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1355_BP23931_FMA49054_Right%20lateral%20rectus.obj"
+    },
+    {
+      "id": "FJ1356",
+      "file": "FJ1356.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1356_BP22922_FMA58242_Right%20lens.obj",
+      "sha256": "4c67b2d02c8f671bda6ef8d202a8b2695880b186ae7ad5579793f07a81f14e03",
+      "bytes": 94340,
+      "mirrorPath": "meshes/FJ1356_BP22922_FMA58242_Right lens.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1356_BP22922_FMA58242_Right%20lens.obj"
+    },
+    {
+      "id": "FJ1357",
+      "file": "FJ1357.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1357_BP21297_FMA49048_Right%20levator%20palpebrae%20superioris.obj",
+      "sha256": "9b6eeb977ddfbcfe80e8dea6dcc9c7a076342f156e12d5e8b0f9d4069577b6db",
+      "bytes": 290128,
+      "mirrorPath": "meshes/FJ1357_BP21297_FMA49048_Right levator palpebrae superioris.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1357_BP21297_FMA49048_Right%20levator%20palpebrae%20superioris.obj"
+    },
+    {
+      "id": "FJ1359",
+      "file": "FJ1359.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1359_BP23871_FMA49056_Right%20medial%20rectus.obj",
+      "sha256": "a85ef19a0f2bc048047a9680ab7041f0d24f92a83c0390cebb0e3851fdb5730f",
+      "bytes": 159520,
+      "mirrorPath": "meshes/FJ1359_BP23871_FMA49056_Right medial rectus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1359_BP23871_FMA49056_Right%20medial%20rectus.obj"
+    },
+    {
+      "id": "FJ1367",
+      "file": "FJ1367.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1367_BP21424_FMA58607_Optic%20part%20of%20right%20retina.obj",
+      "sha256": "70b1313a6a035c4fdc7e367d3ee15a3e8d159cb7e53600a93f8940ff19cc82fb",
+      "bytes": 1545404,
+      "mirrorPath": "meshes/FJ1367_BP21424_FMA58607_Optic part of right retina.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1367_BP21424_FMA58607_Optic%20part%20of%20right%20retina.obj"
+    },
+    {
+      "id": "FJ1368",
+      "file": "FJ1368.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1368_BP23243_FMA58271_Right%20sclera.obj",
+      "sha256": "d39f10554c9ea9964c3b0cc4a3c355f72c617cab2be07a4579070b7b9e07214f",
+      "bytes": 2746505,
+      "mirrorPath": "meshes/FJ1368_BP23243_FMA58271_Right sclera.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1368_BP23243_FMA58271_Right%20sclera.obj"
+    },
+    {
+      "id": "FJ1371",
+      "file": "FJ1371.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1371_BP23995_FMA58839_Suspensory%20ligament%20of%20right%20lens.obj",
+      "sha256": "3ae7c3e9af709911c66a9c507afeb713e9cebc56865a8b4157962e26c76de172",
+      "bytes": 690007,
+      "mirrorPath": "meshes/FJ1371_BP23995_FMA58839_Suspensory ligament of right lens.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1371_BP23995_FMA58839_Suspensory%20ligament%20of%20right%20lens.obj"
+    },
+    {
+      "id": "FJ1373",
+      "file": "FJ1373.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1373_BP21785_FMA49052_Right%20superior%20oblique.obj",
+      "sha256": "49390d97cb5fa1933c9074e1e6930b52759d852aede7164246cb3db58b77ca80",
+      "bytes": 225989,
+      "mirrorPath": "meshes/FJ1373_BP21785_FMA49052_Right superior oblique.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1373_BP21785_FMA49052_Right%20superior%20oblique.obj"
+    },
+    {
+      "id": "FJ1374",
+      "file": "FJ1374.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1374_BP21762_FMA49044_Right%20superior%20rectus.obj",
+      "sha256": "b062c5b4558af974843220cef94de513fed03b7a1f9125413570ccc12dec5012",
+      "bytes": 179705,
+      "mirrorPath": "meshes/FJ1374_BP21762_FMA49044_Right superior rectus.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1374_BP21762_FMA49044_Right%20superior%20rectus.obj"
+    },
+    {
+      "id": "FJ1375",
+      "file": "FJ1375.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1375_BP23231_FMA59091_Tarsal%20plate%20of%20right%20upper%20eyelid.obj",
+      "sha256": "a148a1b45125d2cdd6c03102a6af3d686c830554ed082a1f6474faeb05dbc3f0",
+      "bytes": 87423,
+      "mirrorPath": "meshes/FJ1375_BP23231_FMA59091_Tarsal plate of right upper eyelid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1375_BP23231_FMA59091_Tarsal%20plate%20of%20right%20upper%20eyelid.obj"
+    },
+    {
+      "id": "FJ1379",
+      "file": "FJ1379.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1379_BP23893_FMA59089_Tarsal%20plate%20of%20right%20lower%20eyelid.obj",
+      "sha256": "d6b45578a1253df04572767f24fe20a2a2d56f7fd3883bfdd62298874d72c1a9",
+      "bytes": 60804,
+      "mirrorPath": "meshes/FJ1379_BP23893_FMA59089_Tarsal plate of right lower eyelid.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1379_BP23893_FMA59089_Tarsal%20plate%20of%20right%20lower%20eyelid.obj"
+    },
+    {
+      "id": "FJ1380",
+      "file": "FJ1380.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1380_BP23171_FMA49067_Trochlea%20of%20right%20superior%20oblique.obj",
+      "sha256": "e5094432965b9249cb7d076a035c86c620229fe20d7bdc95071e2d413f755ff6",
+      "bytes": 24433,
+      "mirrorPath": "meshes/FJ1380_BP23171_FMA49067_Trochlea of right superior oblique.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1380_BP23171_FMA49067_Trochlea%20of%20right%20superior%20oblique.obj"
+    },
+    {
+      "id": "FJ1382",
+      "file": "FJ1382.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1382_BP23293_FMA58828_Right%20vitreous%20body.obj",
+      "sha256": "62577a3cd74f3429fa0d8c920499e28bf2da41dc949b5dae45a0e41ae6368a56",
+      "bytes": 347379,
+      "mirrorPath": "meshes/FJ1382_BP23293_FMA58828_Right vitreous body.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ1382_BP23293_FMA58828_Right%20vitreous%20body.obj"
+    },
+    {
+      "id": "FJ7501",
+      "file": "FJ7501.obj",
+      "url": "https://media.githubusercontent.com/media/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ7501_BP23301_FMA50875_Right%20optic%20nerve.obj",
+      "sha256": "15c204aca7e2140d534e10e1bc048cfe8ed67a5ab480365be2fbff5c8e5b398f",
+      "bytes": 97548,
+      "mirrorPath": "meshes/FJ7501_BP23301_FMA50875_Right optic nerve.obj",
+      "pointerUrl": "https://raw.githubusercontent.com/olivercase/body_parts_3d_api/fd527e6f4daf732fd814314d9257df5877b844bc/meshes/FJ7501_BP23301_FMA50875_Right%20optic%20nerve.obj"
+    }
+  ]
+}
