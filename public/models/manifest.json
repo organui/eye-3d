@@ -1,0 +1,493 @@
+{
+  "dataset": "BodyParts3D / Anatomography",
+  "version": "4.3",
+  "variant": "Object set 4.3, FMA3.0 tree; right eye and orbital structures",
+  "retrieved": "2026-10-16",
+  "license": "CC-BY-SA-2.1-JP",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en",
+  "licenseStatement": "https://lifesciencedb.jp/bp3d/info/index.html#License",
+  "credit": "BodyParts3D / Anatomography, © The Database Center for Life Science (DBCLS), CC BY-SA 2.1 Japan",
+  "mirror": {
+    "url": "https://github.com/olivercase/body_parts_3d_api",
+    "commit": "fd527e6f4daf732fd814314d9257df5877b844bc"
+  },
+  "mapping": {
+    "file": "docs/model-source/FMA2Obj-4.3.tsv",
+    "sha256": "c3d16c891016da13447de2fc3241d05d92e8f9dc460e363233c03f420b935d4f"
+  },
+  "transform": {
+    "sourceBoundsMm": {
+      "min": [
+        -47.8014,
+        -166.307,
+        1503.14
+      ],
+      "max": [
+        -3.81025,
+        -107.766,
+        1538.58
+      ]
+    },
+    "centerMm": [
+      -25.805825,
+      -137.0365,
+      1520.8600000000001
+    ],
+    "scale": 0.1,
+    "axes": "[x, z, -y]",
+    "droppedFaces": "faces with every vertex at source x > 0 mm (detached fragments at the left eye)"
+  },
+  "runtime": {
+    "file": "eye.glb",
+    "bytes": 3947432,
+    "sha256": "1def428a2a2631662aab830908e45f44f6580034f76f74c6790ee8fbaed166b0"
+  },
+  "structures": [
+    {
+      "id": "cornea",
+      "fma": "FMA58239",
+      "sourceName": "Right cornea",
+      "sources": [
+        {
+          "element": "FJ1340",
+          "fma": "FMA58239",
+          "sourceName": "Right cornea",
+          "mirrorPath": "meshes/FJ1340_BP23300_FMA58239_Right cornea.obj",
+          "sha256": "54355243527186388cb0639d8c0b93917f1fdf3561cc16e4ce8c79d46fd2f152",
+          "bytes": 336755,
+          "sourceVertices": 3091,
+          "sourceFaces": 4606,
+          "droppedDetachedFaces": 18,
+          "vertices": 3037,
+          "triangles": 4588
+        }
+      ]
+    },
+    {
+      "id": "sclera",
+      "fma": "FMA58271",
+      "sourceName": "Right sclera",
+      "sources": [
+        {
+          "element": "FJ1368",
+          "fma": "FMA58271",
+          "sourceName": "Right sclera",
+          "mirrorPath": "meshes/FJ1368_BP23243_FMA58271_Right sclera.obj",
+          "sha256": "d39f10554c9ea9964c3b0cc4a3c355f72c617cab2be07a4579070b7b9e07214f",
+          "bytes": 2746505,
+          "sourceVertices": 20582,
+          "sourceFaces": 39524,
+          "droppedDetachedFaces": 4,
+          "vertices": 20570,
+          "triangles": 39520
+        }
+      ]
+    },
+    {
+      "id": "choroid",
+      "fma": "FMA58299",
+      "sourceName": "Right choroid",
+      "sources": [
+        {
+          "element": "FJ1336",
+          "fma": "FMA58299",
+          "sourceName": "Right choroid",
+          "mirrorPath": "meshes/FJ1336_BP21711_FMA58299_Right choroid.obj",
+          "sha256": "44b884dcb2184615ba153335db479fcb93cf1ea67052ec171a1693c191e8acaa",
+          "bytes": 460220,
+          "sourceVertices": 3915,
+          "sourceFaces": 6714,
+          "droppedDetachedFaces": 0,
+          "vertices": 3915,
+          "triangles": 6714
+        },
+        {
+          "element": "FJ1337",
+          "fma": "FMA58299",
+          "sourceName": "Right choroid",
+          "mirrorPath": "meshes/FJ1337_BP21711_FMA58299_Right choroid.obj",
+          "sha256": "0d5a9023b5f9745a361b6d12db0326162334781f49487dd2dcbc525b67ca6d22",
+          "bytes": 2012224,
+          "sourceVertices": 15685,
+          "sourceFaces": 28872,
+          "droppedDetachedFaces": 10,
+          "vertices": 15661,
+          "triangles": 28862
+        }
+      ]
+    },
+    {
+      "id": "retina",
+      "fma": "FMA58607",
+      "sourceName": "Optic part of right retina",
+      "sources": [
+        {
+          "element": "FJ1367",
+          "fma": "FMA58607",
+          "sourceName": "Optic part of right retina",
+          "mirrorPath": "meshes/FJ1367_BP21424_FMA58607_Optic part of right retina.obj",
+          "sha256": "70b1313a6a035c4fdc7e367d3ee15a3e8d159cb7e53600a93f8940ff19cc82fb",
+          "bytes": 1545404,
+          "sourceVertices": 11737,
+          "sourceFaces": 23394,
+          "droppedDetachedFaces": 0,
+          "vertices": 11737,
+          "triangles": 23394
+        }
+      ]
+    },
+    {
+      "id": "iris",
+      "fma": "FMA58236",
+      "sourceName": "Right iris",
+      "sources": [
+        {
+          "element": "FJ1348",
+          "fma": "FMA58236",
+          "sourceName": "Right iris",
+          "mirrorPath": "meshes/FJ1348_BP21327_FMA58236_Right iris.obj",
+          "sha256": "faa81813b4ba2000575e3c21a1b4a95465985ac95bf7bb05e7d4d4025a8b067f",
+          "bytes": 207787,
+          "sourceVertices": 1734,
+          "sourceFaces": 3248,
+          "droppedDetachedFaces": 0,
+          "vertices": 1734,
+          "triangles": 3248
+        }
+      ]
+    },
+    {
+      "id": "anterior-chamber",
+      "fma": "FMA58081",
+      "sourceName": "Anterior chamber of right eyeball",
+      "sources": [
+        {
+          "element": "FJ1332",
+          "fma": "FMA58081",
+          "sourceName": "Anterior chamber of right eyeball",
+          "mirrorPath": "meshes/FJ1332_BP22879_FMA58081_Anterior chamber of right eyeball.obj",
+          "sha256": "5fcc25380ed685581a8de599cb4d7dd3ef214448a0f19fa93dfa09f6561a1f18",
+          "bytes": 185241,
+          "sourceVertices": 1509,
+          "sourceFaces": 3014,
+          "droppedDetachedFaces": 0,
+          "vertices": 1509,
+          "triangles": 3014
+        }
+      ]
+    },
+    {
+      "id": "lens",
+      "fma": "FMA58242",
+      "sourceName": "Right lens",
+      "sources": [
+        {
+          "element": "FJ1356",
+          "fma": "FMA58242",
+          "sourceName": "Right lens",
+          "mirrorPath": "meshes/FJ1356_BP22922_FMA58242_Right lens.obj",
+          "sha256": "4c67b2d02c8f671bda6ef8d202a8b2695880b186ae7ad5579793f07a81f14e03",
+          "bytes": 94340,
+          "sourceVertices": 801,
+          "sourceFaces": 1598,
+          "droppedDetachedFaces": 0,
+          "vertices": 801,
+          "triangles": 1598
+        }
+      ]
+    },
+    {
+      "id": "suspensory-ligament",
+      "fma": "FMA58839",
+      "sourceName": "Suspensory ligament of right lens",
+      "sources": [
+        {
+          "element": "FJ1371",
+          "fma": "FMA58839",
+          "sourceName": "Suspensory ligament of right lens",
+          "mirrorPath": "meshes/FJ1371_BP23995_FMA58839_Suspensory ligament of right lens.obj",
+          "sha256": "3ae7c3e9af709911c66a9c507afeb713e9cebc56865a8b4157962e26c76de172",
+          "bytes": 690007,
+          "sourceVertices": 7285,
+          "sourceFaces": 7376,
+          "droppedDetachedFaces": 4,
+          "vertices": 7273,
+          "triangles": 7372
+        }
+      ]
+    },
+    {
+      "id": "vitreous-body",
+      "fma": "FMA58828",
+      "sourceName": "Right vitreous body",
+      "sources": [
+        {
+          "element": "FJ1382",
+          "fma": "FMA58828",
+          "sourceName": "Right vitreous body",
+          "mirrorPath": "meshes/FJ1382_BP23293_FMA58828_Right vitreous body.obj",
+          "sha256": "62577a3cd74f3429fa0d8c920499e28bf2da41dc949b5dae45a0e41ae6368a56",
+          "bytes": 347379,
+          "sourceVertices": 2775,
+          "sourceFaces": 5436,
+          "droppedDetachedFaces": 0,
+          "vertices": 2775,
+          "triangles": 5436
+        }
+      ]
+    },
+    {
+      "id": "superior-rectus",
+      "fma": "FMA49044",
+      "sourceName": "Right superior rectus",
+      "sources": [
+        {
+          "element": "FJ1374",
+          "fma": "FMA49044",
+          "sourceName": "Right superior rectus",
+          "mirrorPath": "meshes/FJ1374_BP21762_FMA49044_Right superior rectus.obj",
+          "sha256": "b062c5b4558af974843220cef94de513fed03b7a1f9125413570ccc12dec5012",
+          "bytes": 179705,
+          "sourceVertices": 1532,
+          "sourceFaces": 2812,
+          "droppedDetachedFaces": 0,
+          "vertices": 1532,
+          "triangles": 2812
+        }
+      ]
+    },
+    {
+      "id": "inferior-rectus",
+      "fma": "FMA49046",
+      "sourceName": "Right inferior rectus",
+      "sources": [
+        {
+          "element": "FJ1346",
+          "fma": "FMA49046",
+          "sourceName": "Right inferior rectus",
+          "mirrorPath": "meshes/FJ1346_BP20293_FMA49046_Right inferior rectus.obj",
+          "sha256": "edad9e91d9fc2852c70ffcfcb218fb69a74dc76fff8d35d06ee46aebba5091be",
+          "bytes": 224245,
+          "sourceVertices": 1851,
+          "sourceFaces": 3542,
+          "droppedDetachedFaces": 0,
+          "vertices": 1851,
+          "triangles": 3542
+        }
+      ]
+    },
+    {
+      "id": "medial-rectus",
+      "fma": "FMA49056",
+      "sourceName": "Right medial rectus",
+      "sources": [
+        {
+          "element": "FJ1359",
+          "fma": "FMA49056",
+          "sourceName": "Right medial rectus",
+          "mirrorPath": "meshes/FJ1359_BP23871_FMA49056_Right medial rectus.obj",
+          "sha256": "a85ef19a0f2bc048047a9680ab7041f0d24f92a83c0390cebb0e3851fdb5730f",
+          "bytes": 159520,
+          "sourceVertices": 1357,
+          "sourceFaces": 2548,
+          "droppedDetachedFaces": 0,
+          "vertices": 1357,
+          "triangles": 2548
+        }
+      ]
+    },
+    {
+      "id": "lateral-rectus",
+      "fma": "FMA49054",
+      "sourceName": "Right lateral rectus",
+      "sources": [
+        {
+          "element": "FJ1355",
+          "fma": "FMA49054",
+          "sourceName": "Right lateral rectus",
+          "mirrorPath": "meshes/FJ1355_BP23931_FMA49054_Right lateral rectus.obj",
+          "sha256": "7de59675e4a4989f1c555bc9d8af819260eace063ac61dea99050d558b4a47eb",
+          "bytes": 206126,
+          "sourceVertices": 1705,
+          "sourceFaces": 3276,
+          "droppedDetachedFaces": 0,
+          "vertices": 1705,
+          "triangles": 3276
+        }
+      ]
+    },
+    {
+      "id": "superior-oblique",
+      "fma": "FMA49052",
+      "sourceName": "Right superior oblique",
+      "sources": [
+        {
+          "element": "FJ1373",
+          "fma": "FMA49052",
+          "sourceName": "Right superior oblique",
+          "mirrorPath": "meshes/FJ1373_BP21785_FMA49052_Right superior oblique.obj",
+          "sha256": "49390d97cb5fa1933c9074e1e6930b52759d852aede7164246cb3db58b77ca80",
+          "bytes": 225989,
+          "sourceVertices": 1870,
+          "sourceFaces": 3546,
+          "droppedDetachedFaces": 0,
+          "vertices": 1870,
+          "triangles": 3546
+        }
+      ]
+    },
+    {
+      "id": "inferior-oblique",
+      "fma": "FMA49050",
+      "sourceName": "Right inferior oblique",
+      "sources": [
+        {
+          "element": "FJ1345",
+          "fma": "FMA49050",
+          "sourceName": "Right inferior oblique",
+          "mirrorPath": "meshes/FJ1345_BP23882_FMA49050_Right inferior oblique.obj",
+          "sha256": "ba6587b4c0de1e4b4b54400ba96cf452b74e3ebf2eb1b66778bd55fee87b8b76",
+          "bytes": 144895,
+          "sourceVertices": 1241,
+          "sourceFaces": 2342,
+          "droppedDetachedFaces": 0,
+          "vertices": 1241,
+          "triangles": 2342
+        }
+      ]
+    },
+    {
+      "id": "levator-palpebrae",
+      "fma": "FMA49048",
+      "sourceName": "Right levator palpebrae superioris",
+      "sources": [
+        {
+          "element": "FJ1357",
+          "fma": "FMA49048",
+          "sourceName": "Right levator palpebrae superioris",
+          "mirrorPath": "meshes/FJ1357_BP21297_FMA49048_Right levator palpebrae superioris.obj",
+          "sha256": "9b6eeb977ddfbcfe80e8dea6dcc9c7a076342f156e12d5e8b0f9d4069577b6db",
+          "bytes": 290128,
+          "sourceVertices": 2451,
+          "sourceFaces": 4360,
+          "droppedDetachedFaces": 0,
+          "vertices": 2451,
+          "triangles": 4360
+        },
+        {
+          "element": "FJ1343",
+          "fma": "FMA54159",
+          "sourceName": "Tendon of right levator palpebrae superioris",
+          "mirrorPath": "meshes/FJ1343_BP21501_FMA54159_Tendon of right levator palpebrae superioris.obj",
+          "sha256": "2c05ac485ff89ea3ce2739a1ce7aab1275c8d3aefa1eb63027ebb4f96262f121",
+          "bytes": 193761,
+          "sourceVertices": 1787,
+          "sourceFaces": 2764,
+          "droppedDetachedFaces": 0,
+          "vertices": 1787,
+          "triangles": 2764
+        }
+      ]
+    },
+    {
+      "id": "optic-nerve",
+      "fma": "FMA50875",
+      "sourceName": "Right optic nerve",
+      "sources": [
+        {
+          "element": "FJ7501",
+          "fma": "FMA50875",
+          "sourceName": "Right optic nerve",
+          "mirrorPath": "meshes/FJ7501_BP23301_FMA50875_Right optic nerve.obj",
+          "sha256": "15c204aca7e2140d534e10e1bc048cfe8ed67a5ab480365be2fbff5c8e5b398f",
+          "bytes": 97548,
+          "sourceVertices": 903,
+          "sourceFaces": 1506,
+          "droppedDetachedFaces": 0,
+          "vertices": 903,
+          "triangles": 1506
+        }
+      ]
+    },
+    {
+      "id": "trochlea",
+      "fma": "FMA49067",
+      "sourceName": "Trochlea of right superior oblique",
+      "sources": [
+        {
+          "element": "FJ1380",
+          "fma": "FMA49067",
+          "sourceName": "Trochlea of right superior oblique",
+          "mirrorPath": "meshes/FJ1380_BP23171_FMA49067_Trochlea of right superior oblique.obj",
+          "sha256": "e5094432965b9249cb7d076a035c86c620229fe20d7bdc95071e2d413f755ff6",
+          "bytes": 24433,
+          "sourceVertices": 227,
+          "sourceFaces": 398,
+          "droppedDetachedFaces": 0,
+          "vertices": 227,
+          "triangles": 398
+        }
+      ]
+    },
+    {
+      "id": "lacrimal-gland",
+      "fma": "FMA59102",
+      "sourceName": "Right lacrimal gland",
+      "sources": [
+        {
+          "element": "FJ1350",
+          "fma": "FMA59102",
+          "sourceName": "Right lacrimal gland",
+          "mirrorPath": "meshes/FJ1350_BP22884_FMA59102_Right lacrimal gland.obj",
+          "sha256": "94988bca86113b605301499c124c3ced54b30580833125f10e3636d48324ff1b",
+          "bytes": 107837,
+          "sourceVertices": 920,
+          "sourceFaces": 1812,
+          "droppedDetachedFaces": 0,
+          "vertices": 920,
+          "triangles": 1812
+        }
+      ]
+    },
+    {
+      "id": "upper-tarsal-plate",
+      "fma": "FMA59091",
+      "sourceName": "Tarsal plate of right upper eyelid",
+      "sources": [
+        {
+          "element": "FJ1375",
+          "fma": "FMA59091",
+          "sourceName": "Tarsal plate of right upper eyelid",
+          "mirrorPath": "meshes/FJ1375_BP23231_FMA59091_Tarsal plate of right upper eyelid.obj",
+          "sha256": "a148a1b45125d2cdd6c03102a6af3d686c830554ed082a1f6474faeb05dbc3f0",
+          "bytes": 87423,
+          "sourceVertices": 745,
+          "sourceFaces": 1474,
+          "droppedDetachedFaces": 0,
+          "vertices": 745,
+          "triangles": 1474
+        }
+      ]
+    },
+    {
+      "id": "lower-tarsal-plate",
+      "fma": "FMA59089",
+      "sourceName": "Tarsal plate of right lower eyelid",
+      "sources": [
+        {
+          "element": "FJ1379",
+          "fma": "FMA59089",
+          "sourceName": "Tarsal plate of right lower eyelid",
+          "mirrorPath": "meshes/FJ1379_BP23893_FMA59089_Tarsal plate of right lower eyelid.obj",
+          "sha256": "d6b45578a1253df04572767f24fe20a2a2d56f7fd3883bfdd62298874d72c1a9",
+          "bytes": 60804,
+          "sourceVertices": 523,
+          "sourceFaces": 1026,
+          "droppedDetachedFaces": 0,
+          "vertices": 523,
+          "triangles": 1026
+        }
+      ]
+    }
+  ]
+}
