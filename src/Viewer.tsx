@@ -106,11 +106,11 @@ function CameraControls({
       new Vector3(
         // This is a right eye: its lateral side faces the patient's right (−x).
         // Superior sits just off vertical so the camera keeps a stable "up".
-        ...((view === 'Lateral' ? [-1, 0, 0] : view === 'Superior' ? [0, 1, 0.08] : [0, 0, 1]) as [
-          number,
-          number,
-          number,
-        ]),
+        ...((view === 'Right lateral'
+          ? [-1, 0, 0]
+          : view === 'Superior'
+            ? [0, 1, 0.08]
+            : [0, 0, 1]) as [number, number, number]),
       ).normalize()
     const fit = (direction: Vector3) =>
       Math.min(

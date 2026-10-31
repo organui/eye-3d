@@ -170,7 +170,7 @@ export const structures: Structure[] = [
     color: '#c27b69',
     description:
       'One of the six muscles that move the eye. It turns the eye outward, away from the nose.',
-    note: 'Best seen from the lateral view.',
+    note: 'Best seen from the right lateral view.',
   },
   {
     id: 'superior-oblique',
@@ -275,7 +275,7 @@ export const groups = [
   'Nerve and eyelid',
 ] as const satisfies readonly Group[]
 export const byId = Object.fromEntries(structures.map((s) => [s.id, s]))
-export type View = 'Anterior' | 'Lateral' | 'Superior'
+export type View = 'Anterior' | 'Right lateral' | 'Superior'
 export const tour: { id: string; title: string; text: string; view: View; isolate?: boolean }[] = [
   {
     id: 'cornea',
@@ -287,14 +287,14 @@ export const tour: { id: string; title: string; text: string; view: View; isolat
     id: 'lens',
     title: 'Fine focus',
     text: 'The lens is isolated here. It sits behind the iris and is held by the suspensory ligament. Restore all to see it in place.',
-    view: 'Lateral',
+    view: 'Right lateral',
     isolate: true,
   },
   {
     id: 'retina',
     title: 'Where seeing starts',
     text: 'The retina lines the back of the eye. Hide the sclera and choroid to see it, or rotate to follow it to the optic nerve.',
-    view: 'Lateral',
+    view: 'Right lateral',
   },
   {
     id: 'superior-rectus',
