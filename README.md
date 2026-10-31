@@ -41,9 +41,9 @@ The explorer shares its behaviour with the other OrganUI explorers ([heart](http
 - Keyboard: Tab/Enter for controls; focus the model and use arrow keys to rotate, `+`/`-` to zoom. All anatomy text is available without WebGL. Reduced-motion preferences disable damping.
 
 <details>
-<summary>Lateral view, selection, and mobile screenshots</summary>
+<summary>Right lateral view, selection, and mobile screenshots</summary>
 
-![Lateral view showing the eye muscles and optic nerve](docs/screenshots/lateral.png)
+![Right lateral view showing the eye muscles and optic nerve](docs/screenshots/lateral.png)
 
 ![Levator palpebrae superioris selected from the superior view](docs/screenshots/selection.png)
 
